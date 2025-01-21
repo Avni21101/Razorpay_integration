@@ -1,16 +1,24 @@
-# razor_pay_integration
 
-A new Flutter project.
+## Razorpay Integration
 
-## Getting Started
+[razorpay_demo.webp](https://github.com/Avni21101/Razorpay_integration/blob/main/assets/razorpay_demo.webp)
 
-This project is a starting point for a Flutter application.
+## Implementation of Razorpay with Testing Keys
 
-A few resources to get you started if this is your first Flutter project:
+- Clone the repository to your local machine.
+- Create a class named AppConstants and include the `key_id` and `key_secret` required for Razorpay integration. These keys will enable the code to function properly during testing.
+- The codebase is structured using the BLoC (Business Logic Component) pattern, ensuring a clean and maintainable architecture.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Dependencies
+- [razorpay_flutter](https://pub.dev/packages/razorpay_flutter)
+- [dio](https://pub.dev/packages/dio)
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [equatable](https://pub.dev/packages/equatable)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Contributing
+Contributions are always welcome!
+
+- `Report Issues` : Open an issue with detailed information about bugs or feature requests.
+- `Submit Pull Requests` : Fork the repo, create a new branch, make changes, and open a pull request with a clear description.
+- `Code Standards` : Follow the project’s modular design and ensure validation logic aligns with Formz and Bloc.
