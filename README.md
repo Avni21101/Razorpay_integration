@@ -1,7 +1,7 @@
 
 ## Razorpay Integration
 
-[razorpay_demo.png](https://github.com/Avni21101/Razorpay_integration/blob/main/assets/demo_image.png)
+[demo_image.png](https://github.com/Avni21101/Razorpay_integration/blob/main/assets/demo_image.png)
 
 ## Implementation of Razorpay with Testing Keys
 
